@@ -1,0 +1,6 @@
+pynput>=1.7.6
+requests>=2.31.0
+
+
+#   cd /Users/aryan/customApps/smartautotyper
+#   .venv/bin/python ollama_typer.py
